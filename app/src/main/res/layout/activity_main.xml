@@ -23,4 +23,12 @@
         tools:layout_editor_absoluteX="196dp"
         tools:layout_editor_absoluteY="138dp" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="生田ボタン"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="503dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
