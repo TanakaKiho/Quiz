@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Quiz</string>
     <string name="Title">ジャンル選択</string>
-</resources>
+
+    <string-array name=”list”>
+    <item>A型</item>
+    <item>B型</item>
+    <item>O型</item>
+    <item>AB型</item>
+    </string-array>
+</resources>　
