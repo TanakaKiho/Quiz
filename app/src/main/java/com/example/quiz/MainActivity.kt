@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        setContentView(R.layout.top)
+        //setContentView(R.layout.top)
 /*
         // adapter作成
         val array = arrayOf("A", "B", "C", "D")
